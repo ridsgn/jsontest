@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Sirih Gading Catering",
       "category": "Catering",
-      "img": "ksndfkanuie.jpg",
+      "img": "https://picsum.photos/200?random=1",
       "location": "Jakarta",
       "country": "ID",
       "review": "221",
@@ -12,43 +12,43 @@
     },
     {
       "id": 2,
-      "title": "Sirih Gading Catering",
+      "title": "Medina Catering",
       "category": "Catering",
-      "img": "ksndfkanuie.jpg",
-      "location": "Jakarta",
+      "img": "https://picsum.photos/200?random=2",
+      "location": "Bandung",
       "country": "ID",
-      "review": "221",
-      "price": "$$$"
+      "review": "31",
+      "price": "$$"
     },
     {
       "id": 3,
-      "title": "Sirih Gading Catering",
+      "title": "Tirtha Bridal",
       "category": "Catering",
-      "img": "ksndfkanuie.jpg",
-      "location": "Jakarta",
+      "img": "https://picsum.photos/200?random=3",
+      "location": "Bali",
       "country": "ID",
-      "review": "221",
+      "review": "124",
       "price": "$$$"
     },
     {
       "id": 4,
-      "title": "Sirih Gading Catering",
+      "title": "Culture Royale Catering",
       "category": "Catering",
-      "img": "ksndfkanuie.jpg",
+      "img": "https://picsum.photos/200?random=4",
       "location": "Jakarta",
       "country": "ID",
-      "review": "221",
+      "review": "89",
       "price": "$$$"
     },
     {
       "id": 5,
-      "title": "Sirih Gading Catering",
+      "title": "Akasya Catering",
       "category": "Catering",
-      "img": "ksndfkanuie.jpg",
+      "img": "https://picsum.photos/200?random=5",
       "location": "Jakarta",
       "country": "ID",
-      "review": "221",
-      "price": "$$$"
+      "review": "4",
+      "price": "$"
     }
   ]
 }
